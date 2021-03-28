@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            FEAST
+tagline:          ''
+description:      'First international workshop on <a>F</a>air, <a>E</a>ffective <a>A</a>nd <a>S</a>ustainable <a>T</a>alent management'
+url:              http://feast-ecmlpkdd.github.io
+baseurl:          http://feast-ecmlpkdd.github.io
+
+author:
+  name:           'Bo Kang'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/feast-ecmlpkdd/website
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
