@@ -11,7 +11,7 @@ title:            FEAST
 tagline:          ''
 description:      'First international workshop on <a>F</a>air, <a>E</a>ffective <a>A</a>nd <a>S</a>ustainable <a>T</a>alent management'
 url:              http://feast-ecmlpkdd.github.io
-baseurl:          http://feast-ecmlpkdd.github.io/
+baseurl:          ''
 
 author:
   name:           'Bo Kang'
