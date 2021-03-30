@@ -3,6 +3,7 @@ layout: default
 title: Overview
 ---
 # Overview
+---
 
 The job market of the 21st century poses a set of unique challenges. Automation through artificial intelligence and other disruptive technologies will result in unprecedented shocks in the job market, with entire job categories disappearing while new types of jobs requiring new skills and competencies will emerge. While such shifts in the job market have happened before, the impact of the ongoing revolution may be larger and will unfold much faster than it did in the previous industrial revolutions. To mitigate the impact of this disruption, large parts of the workforce will need upskilling and retraining in a matter of years, and continuously thereafter.
 
