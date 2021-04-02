@@ -4,7 +4,7 @@ title: Outline
 ---
 # Workshop outline
 ---
-The workshop will be a combination of high-quality plenary events (keynote talks, a panel discussion between the keynote speakers, and if quality permits a select number of contributed presentations), combined with a poster session for the bulk of the contributed presentations. For the poster session, we will use the gather.town tool, which in our experience successfully allows interaction to occur despite a virtual setup.
+The workshop will be a combination of high-quality plenary events (keynote talks, a panel discussion between the keynote speakers, and possibly a select number of contributed presentations), combined with a poster session for the bulk of the contributed presentations. For the poster session, we will use the gather.town tool, which in our experience successfully allows interaction to occur despite a virtual setup.
 
 
 | 9:00 - 11:00                | __Academic half-day__ <br>1-2 keynote presentations <br>1-2 contributed presentations                            |
