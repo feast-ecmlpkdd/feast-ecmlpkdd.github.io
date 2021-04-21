@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            FEAST
 tagline:          ''
-description:      'International workshop on <a>F</a>air, <a>E</a>ffective <a>A</a>nd <a>S</a>ustainable <a>T</a>alent management'
+description:      'International workshop on <a>F</a>air, <a>E</a>ffective <a>A</a>nd <a>S</a>ustainable <a>T</a>alent management using data science'
 url:              https://feast-ecmlpkdd.github.io/
 baseurl:          ''
 destination:      _site
