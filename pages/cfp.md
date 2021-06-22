@@ -54,7 +54,7 @@ For accepted contributions, at least one author must register for the conference
 Submit via EasyChair: <https://easychair.org/conferences/?conf=feast2021>
 
 ### Important Dates  
-* __Submission__: June 23, 2021 
+* __Submission__: ~~June 23, 2021~~ <span style="color:red">June 30, 2021</span>
 * __Notification__: July 23, 2021 
 * __Camera-ready__: August 18, 2021 
 * __Workshop date__: September 13 or 17, 2021
