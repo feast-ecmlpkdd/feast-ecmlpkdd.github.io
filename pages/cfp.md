@@ -57,7 +57,7 @@ Submit via EasyChair: <https://easychair.org/conferences/?conf=feast2021>
 * __Submission__: ~~June 23, 2021~~ <span style="color:red">June 30, 2021</span>
 * __Notification__: July 23, 2021 
 * __Camera-ready__: August 18, 2021 
-* __Workshop date__: September 13 or 17, 2021
+* __Workshop date__: September 17, 2021
 
 ## Further information and Contact 
 * __Organizers__: Bo Kang, Mohammad Al Hasan, Dieter De Witte, Hui Xiong, Tijl De Bie
