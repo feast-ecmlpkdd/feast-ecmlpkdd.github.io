@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call for papers
+permalink: /cfp/
 ---
 # Call for papers
 ---

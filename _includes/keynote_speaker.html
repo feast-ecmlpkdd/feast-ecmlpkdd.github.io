@@ -1,0 +1,57 @@
+{% assign _data = include.data %}
+{% assign _image_width = 'style="width:140px"' %}
+
+<div class="row">
+  <div class="col-md-10">
+    <div class="keynote-container round-corners">
+      <div class="row">
+
+        <div class="col-md-3">
+          <div style="padding:15px;margin-top:11.5px;">
+            <a href="{{_data.homepage}}" target="_blank">
+              <img class="round-corners" src="/images/{{_data.image}}" {{_image_width}} />
+            </a>
+            <div {{_image_width}}>
+              <button type="button" class="btn btn-secondary active" {{_image_width}} id="bio{{_data.id}}">Biography</button>
+              <br>
+              <button type="button" class="btn btn-secondary" {{_image_width}} id="talk{{_data.id}}">Talk</button>
+          </div>
+
+          </div>
+        </div>
+
+        <div class="col-md-9">
+          <h5 style="padding:15px;margin-bottom:0px;">
+            <strong>
+              <a href="{{_data.homepage}}" target="_blank">
+                {{_data.name}} - {{_data.institution}}
+              </a>
+            </strong>
+            <br> <br>
+            <b>{{_data.talktitle}}</b>
+          </h5>
+
+
+          <p style="padding-left:15px;padding-right:15px;" id="text{{_data.id}}">
+            {{_data.bio}}
+          </p>
+
+          <script type="text/javascript">
+            $(document).ready(function () {
+                $("#talk{{_data.id}}").click(function () {
+                  document.getElementById("text{{ _data.id }}").innerHTML = "{{_data.talk}}";
+                  document.getElementById("talk{{ _data.id }}").classList.add("active");
+                  document.getElementById("bio{{ _data.id }}").classList.remove("active");
+                });
+                $("#bio{{_data.id}}").click(function () {
+                  document.getElementById("text{{ _data.id }}").innerHTML = "{{_data.bio}}";
+                  document.getElementById("bio{{ _data.id }}").classList.add("active");
+                  document.getElementById("talk{{ _data.id }}").classList.remove("active");
+                });
+            });
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
