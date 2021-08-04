@@ -1,25 +1,10 @@
 {% assign _data = include.data %}
-{% assign _image_width = 'style="width:140px"' %}
+{% assign _image_width = 'style="width:160px"' %}
 
 <div class="row">
   <div class="col-md-10">
     <div class="keynote-container round-corners">
       <div class="row">
-
-        <div class="col-md-3">
-          <div style="padding:15px;margin-top:11.5px;">
-            <a href="{{_data.homepage}}" target="_blank">
-              <img class="round-corners" src="/images/{{_data.image}}" {{_image_width}} />
-            </a>
-            <div {{_image_width}}>
-              <button type="button" class="btn btn-secondary active" {{_image_width}} id="bio{{_data.id}}">Biography</button>
-              <br>
-              <button type="button" class="btn btn-secondary" {{_image_width}} id="talk{{_data.id}}">Talk</button>
-          </div>
-
-          </div>
-        </div>
-
         <div class="col-md-9">
           <h5 style="padding:15px;margin-bottom:0px;">
             <strong>
@@ -27,10 +12,16 @@
                 {{_data.name}} - {{_data.institution}}
               </a>
             </strong>
-            <br> <br>
+            <a href="{{_data.homepage}}" target="_blank">
+                <img class="round-corners" src="/images/{{_data.image}}" {{_image_width}} />
+              </a>            
             <b>{{_data.talktitle}}</b>
           </h5>
-
+             <div>
+            <button type="button" class="btn btn-secondary active" style="width:100px" id="bio{{_data.id}}">Biography</button>
+            <!-- <br> -->
+            <button type="button" class="btn btn-secondary" style="width:100px" id="talk{{_data.id}}">Talk</button>
+            </div>
 
           <p style="padding-left:15px;padding-right:15px;" id="text{{_data.id}}">
             {{_data.bio}}
