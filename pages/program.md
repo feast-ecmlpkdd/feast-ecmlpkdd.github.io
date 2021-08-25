@@ -19,12 +19,10 @@ permalink: /program/
 
 **15:00 - 15:30** Coffee Break
 
-**15:30 - 16:15** Keynote 2: [__TBA__]()
+**15:30 - 15:45** Contributed talk 5: [__Demand smoothing in shift design__]()
 
-**16:15 - 16:30** Contributed talk 5: [__Demand smoothing in shift design__]()
+**15:45 - 16:00** Contributed talk 6: [__Time to Question if We Should: Data-Driven and Algorithmic Tools in Public Employment Services__]()
 
-**16:30 - 16:45** Contributed talk 6: [__Time to Question if We Should: Data-Driven and Algorithmic Tools in Public Employment Services__]()
+**16:00 - 16:15** Contributed talk 7: [__Counterfactual Explanations for Job Fit Assessment__]()
 
-**16:45 - 17:00** Contributed talk 7: [__Counterfactual Explanations for Job Fit Assessment__]()
-
-**17:40 - 18:00** Poster session
+**16:15 - 17:30** Poster session
