@@ -9,7 +9,7 @@ permalink: /program/
 
 **13:15 - 14:00** Keynote 1: [__Data Science in HR: recommender systems, knowledge graphs, vacancies and resumes__]()
 
-**14:00 - 14:15** Contributed talk 1: [__HA recommender system that encodes job offer embeddings on graph databases__]()
+**14:00 - 14:15** Contributed talk 1: [__Skills2Job: a recommender system that encodes job offer embeddings on graph databases__]()
 
 **14:15 - 14:30** Contributed talk 2: [__Quantifying and Reducing Imbalance in Networks__]()
 
