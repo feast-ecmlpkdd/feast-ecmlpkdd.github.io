@@ -7,8 +7,6 @@ permalink: /program/
 ---
 **[Zoom link](https://us06web.zoom.us/j/84976078453?pwd=dnR0ckIxUWdGNS9nNFl3US9ldzlxQT09) for presentations**
 
-**[gather.town](http://gather.town/app/hBEz7gd9j6SCPWBG/ECML%20PKDD%202021) for poster session** 
-
 **13:00 - 13:15** Opening
 
 **13:15 - 14:00** Keynote 1: [__Data Science in HR: recommender systems, knowledge graphs, vacancies and resumes__]()
