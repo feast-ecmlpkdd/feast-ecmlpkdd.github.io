@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Keynote Speakers
+title: Keynote Speaker
 permalink: /keynotes/
 ---
 # Keynote Speaker
