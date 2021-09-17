@@ -31,7 +31,7 @@ Contributions are solicited on methods as well as systems, on theory as well as 
 
 ## Workshop format
 FEAST is a full-day workshop, featuring:
-* a keynote talk from from either industry, government or academia. 
+* A keynote talk from from either industry, government or academia. 
 * Spotlight presentations
 * Contributed presentations
 * A poster session
