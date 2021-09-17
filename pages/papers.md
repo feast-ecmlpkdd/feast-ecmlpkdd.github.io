@@ -10,7 +10,7 @@ permalink: /papers/
 
 * __Quantifying and Reducing Imbalance in Networks__, _Yoosof Mashayekhi, Bo Kang, Jefrey Lijffijt and Tijl De Bie_ [[Paper]](FEAST2021_paper_3.pdf)  [[Poster]](FEAST2021_poster_3.pdf)
 
-* __Congestion-Avoiding JobRecommendation with Optimal Transport__, _Guillaume Bied, Elia Perennes, Victor Alfonso, Philippe Caillou, Bruno Crépon, Christophe Gaillac and Michele Sebag_ [[Paper]](FEAST2021_paper_4.pdf)  [[Poster]](FEAST2021_poster_4.pdf) 
+* __Congestion-Avoiding Job Recommendation with Optimal Transport__, _Guillaume Bied, Elia Perennes, Victor Alfonso, Philippe Caillou, Bruno Crépon, Christophe Gaillac and Michele Sebag_ [[Paper]](FEAST2021_paper_4.pdf)  [[Poster]](FEAST2021_poster_4.pdf) 
 
 * __JobBERT: Understanding Job Titles through Skills__, _Jens-Joris Decorte, Jeroen Van Hautte, Thomas Demeester and Chris Develder_ [[Paper]](FEAST2021_paper_6.pdf)  [[Poster]](FEAST2021_poster_6.pdf)
 
