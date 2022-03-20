@@ -7,8 +7,6 @@ permalink: /cfp/
 ---
 The FEAST workshop aims to address the __challenges of the contemporary job market and human resources management__ by means of __data-driven solutions__ that better enable all relevant stakeholders to achieve their goals in a fair, effective, and sustainable manner, including the job seekers, employers, HR agencies, HR managers, policy makers and government agencies, training facilities, and more. The challenges for which data science can make a genuine difference are numerous: Workers need better job recommendations and career advice; Employers need better HR and recruitment strategies, with due consideration of ethical constraints; Policy makers need to understand how to regulate the job market to ensure efficiency, fairness, and inclusion; And much more.
 
-We __invite contributions advancing the state-of-the-art on these topics__, to be presented at the __FEAST workshop__ which is to be held online during and as part of the __European Conference on Machine Learning and Principles and Practices of Knowledge Discovery from Data (ECML-PKDD)__, 13 – 17 September 2021.
-
 
 ## Non-exhaustive list of topics of interest
 * Job market analytics
