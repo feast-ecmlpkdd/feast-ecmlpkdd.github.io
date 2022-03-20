@@ -52,16 +52,7 @@ Accepted contributions will be __posted on the workshop website (unless the auth
 
 For accepted contributions, at least one author must register for the conference and attend the workshop to present the work. 
 
-Submit via EasyChair: <https://easychair.org/conferences/?conf=feast2021>
-
-### Important Dates  
-* __Submission__: ~~June 23, 2021~~ <span style="color:red">June 30, 2021</span>
-* __Notification__: July 23, 2021 
-* __Camera-ready__: August 18, 2021 
-* __Workshop date__: September 17, 2021
-
 ## Further information and Contact 
-* __Organizers__: Bo Kang, Mohammad Al Hasan, Dieter De Witte, Hui Xiong, Tijl De Bie
+* __Organizers__: Bo Kang, Stijn Baert, Tijl De Bie
 * __Website URL__: <https://feast-ecmlpkdd.github.io>
-* __Submission URL__: <https://easychair.org/conferences/?conf=feast2021>
 * __E-mail__: <mailto:feast.ecmlpkdd@gmail.com>
