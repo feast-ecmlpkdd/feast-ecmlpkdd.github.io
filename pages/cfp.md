@@ -7,6 +7,7 @@ permalink: /cfp/
 ---
 The FEAST workshop aims to address the __challenges of the contemporary job market and human resources management__ by means of __data-driven solutions__ that better enable all relevant stakeholders to achieve their goals in a fair, effective, and sustainable manner, including the job seekers, employers, HR agencies, HR managers, policy makers and government agencies, training facilities, and more. The challenges for which data science can make a genuine difference are numerous: Workers need better job recommendations and career advice; Employers need better HR and recruitment strategies, with due consideration of ethical constraints; Policy makers need to understand how to regulate the job market to ensure efficiency, fairness, and inclusion; And much more.
 
+We __invite contributions advancing the state-of-the-art on these topics__, to be presented at the __FEAST workshop__ which is to be held online during and as part of the __European Conference on Machine Learning and Principles and Practices of Knowledge Discovery from Data (ECML-PKDD)__, 19 – 23 September 2022, Grenoble, France.
 
 ## Non-exhaustive list of topics of interest
 * Job market analytics
@@ -28,12 +29,10 @@ The FEAST workshop aims to address the __challenges of the contemporary job mark
 Contributions are solicited on methods as well as systems, on theory as well as applications, from academia as well as industry and government agencies. While ethical issues may be a core focus of a contribution, __we strongly encourage possible ethical benefits or concerns to be explicitly considered__ also in contributions where it is not the core focus.
 
 ## Workshop format
-FEAST is a full-day workshop, featuring:
+FEAST is a half-day workshop, featuring:
 * A keynote talk from from either industry, government or academia. 
 * Spotlight presentations
-* Contributed presentations
 * A poster session
-* A panel discussion between the keynote speakers
 
 ## Submission information
 All papers will be peer-reviewed, single-blinded. We solicit submissions of different types:
@@ -50,7 +49,16 @@ Accepted contributions will be __posted on the workshop website (unless the auth
 
 For accepted contributions, at least one author must register for the conference and attend the workshop to present the work. 
 
+Submit via EasyChair: <https://easychair.org/conferences/?conf=feast2022>
+
+### Important Dates  
+* __Submission__: July 01, 2022
+* __Notification__: July 25, 2022
+* __Camera-ready__: August 26, 2022
+* __Workshop date__: September 23, 2022
+
 ## Further information and Contact 
 * __Organizers__: Bo Kang, Stijn Baert, Tijl De Bie
 * __Website URL__: <https://feast-ecmlpkdd.github.io>
+* __Submission URL__: <https://easychair.org/conferences/?conf=feast2022>
 * __E-mail__: <mailto:feast.ecmlpkdd@gmail.com>
