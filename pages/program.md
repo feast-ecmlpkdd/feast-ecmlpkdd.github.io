@@ -6,7 +6,7 @@ permalink: /program/
 # Program
 ---
 
-**14:30 - 15:15** Keynote 1: [__TBA__]()
+**14:30 - 15:15** Keynote 1: [__Katrien Verbert, Title TBA__]() 
 
 **15:15 - 15:30** Overview: [__A challenge-based survey of e-recruitment recommendation systems__]()
 
@@ -20,7 +20,7 @@ permalink: /program/
 
 **16:30 - 17:00** Coffee Break
 
-**17:00 - 17:45** Keynote 2: [__TBA__]()
+**17:00 - 17:45** Keynote 2: [__Title TBA__]()
 
 **17:45 - 18:30** Poster session
 
