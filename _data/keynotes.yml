@@ -1,10 +1,10 @@
 speakers:
   Graus:
     id: 1
-    name: David Graus
-    institution: Randstad
-    image: DavidGraus.jpeg
-    homepage: https://graus.nu
-    bio: David Graus is lead data scientist at Randstad Groep Nederland, where he leads the data science chapter with over a dozen data scientists who work on a wide variety of projects including recommender systems, information extraction from resume and vacancy data, and knowledge graphs. Prior to joining Randstad David worked on news recommendation at the FD Mediagroep, a Dutch media company that owns a newspaper and radio station. He obtained his PhD in Information Retrieval in 2017 at the University of Amsterdam, where he worked on semantic search and computational methods for automated understanding of large-scale textual digital traces under supervision of prof. dr. Maarten de Rijke.
-    talktitle: "Data Science in HR: recommender systems, knowledge graphs, vacancies and resumes"
-    talk: At Randstad, the global leader in the HR services industry, we know from our heritage that real connections are not made from data and algorithms alone – they require human involvement. Last year, we helped more than two million job seekers find a meaningful job by combining industry-scale recommender and search systems with our distinct human touch. At the same time, employing AI in recruitment and HR Is considered high-risk by the European Commission, which will bring additional requirements, obligations, and constraints. <br> For these and other reasons, the field of HR represents a challenging but exciting field for data scientists. In this talk I will highlight some of the challenges, opportunities, and solutions we encountered in our daily data science work. More specifically, I will discuss present and ongoing work in bias and bias mitigation for job recommender systems, knowledge graph construction and enrichment with job posting data for labor market insights, and learning to match vacancies to resumes using embedding models. 
+    name: Katrien Verbert
+    institution: KU Leuven
+    image: KatrienVerbert.jpeg
+    homepage: https://https://wms.cs.kuleuven.be/cs/onderzoek/augment/katrien-verbert
+    bio: TBA
+    talktitle: TBA
+    talk: TBA
