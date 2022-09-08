@@ -1,10 +1,10 @@
 speakers:
-  Graus:
+  Verbert:
     id: 1
     name: Katrien Verbert
     institution: KU Leuven
     image: KatrienVerbert.jpeg
     homepage: https://https://wms.cs.kuleuven.be/cs/onderzoek/augment/katrien-verbert
-    bio: TBA
-    talktitle: TBA
-    talk: TBA
+    bio: bio tba
+    talktitle: title tba
+    talk: talk description tba
