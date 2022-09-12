@@ -6,7 +6,7 @@ permalink: /program/
 # Program
 ---
 
-**14:30 - 15:15** Keynote 1: [__Katrien Verbert, Title TBA__]() 
+**14:30 - 15:15** Keynote 1: [__Explaining job recommendations: a human-centred perspective__](/keynotes/) 
 
 **15:15 - 15:30** Overview: [__A challenge-based survey of e-recruitment recommendation systems__]()
 

@@ -4,7 +4,7 @@ speakers:
     name: Katrien Verbert
     institution: KU Leuven
     image: KatrienVerbert.jpeg
-    homepage: https://https://wms.cs.kuleuven.be/cs/onderzoek/augment/katrien-verbert
-    bio: bio tba
-    talktitle: title tba
-    talk: talk description tba
+    homepage: https://wms.cs.kuleuven.be/cs/onderzoek/augment/katrien-verbert
+    bio: Katrien Verbert is Associate Professor at the Augment research group of KU Leuven. She obtained a doctoral degree in Computer Science in 2008 at KU Leuven, Belgium. She was a postdoctoral researcher of the Research Foundation – Flanders (FWO) at KU Leuven. She was an Assistant Professor at TU Eindhoven, the Netherlands (2013 –2014) and  Vrije Universiteit Brussel, Belgium (2014 – 2015). Her research interests include visualisation techniques, recommender systems, explainable AI, and visual analytics. She has been involved in several European and Flemish projects on these topics, including the EU ROLE, STELLAR, STELA, ABLE, LALA, PERSFO, Smart Tags and BigDataGrapes projects. She is also involved in the organisation of several conferences and workshops (general co-chair IUI 2021, program chair LAK 2020, general chair EC-TEL 2017, program chair EC-TEL 2016, workshop chair EDM 2015, program chair LAK 2013 and program co-chair of the EdRecSys, VISLA and XLA workshop series, DC chair IUI 2017, DC chair LAK 2019).
+    talktitle: "Explaining job recommendations: a human-centred perspective"
+    talk: The dynamics of the labor market and the tasks with which jobs are being composed are continuously evolving. Providing effective recommendations in this context has also been found to be particularly challenging. In this talk, I will present our work on dashboards that visualise predictions and job recommendations, and that provide actionable insights for job seekers. I will present lessons learned from user-centred design processes involving job seekers and job mediators, as well as future research challenges.
