@@ -6,7 +6,7 @@ permalink: /program/
 # Program
 ---
 
-**14:30 - 15:15** Keynote by Katrien Verbert: [__Explaining Job Recommendations: A Human-Centred Perspective__](/keynotes/) 
+**14:30 - 15:15** Keynote by Katrien Verbert: [__Explaining Job Recommendations: A Human-Centred Perspective__](/keynotes/#keynote1) 
 
 **15:15 - 15:30** Overview: [__A Challenge-Based Survey of E-recruitment Recommendation Systems__]()
 
@@ -20,7 +20,7 @@ permalink: /program/
 
 **16:30 - 17:00** Coffee Break
 
-**17:00 - 17:45** Keynote by Michele Sebag: [__Discussing Machine Learning and Economic Views on Job Recommendation__](/keynotes/)
+**17:00 - 17:45** Keynote by Michele Sebag: [__Discussing Machine Learning and Economic Views on Job Recommendation__](/keynotes/#keynote2)
 
 **17:45 - 18:30** Poster session
 
