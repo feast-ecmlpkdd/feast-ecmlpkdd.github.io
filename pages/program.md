@@ -6,9 +6,9 @@ permalink: /program/
 # Program
 ---
 
-**14:30 - 15:15** Keynote 1: [__Explaining job recommendations: a human-centred perspective__](/keynotes/) 
+**14:30 - 15:15** Keynote 1: [__Explaining Job Recommendations: A Human-Centred Perspective__](/keynotes/) 
 
-**15:15 - 15:30** Overview: [__A challenge-based survey of e-recruitment recommendation systems__]()
+**15:15 - 15:30** Overview: [__A Challenge-Based Survey of E-recruitment Recommendation Systems__]()
 
 **15:30 - 15:45** Contributed talk 1: [__Algorithmic Tools in Public Employment Services: Towards a Jobseeker-Centric Perspective__](/papers/FEAST2022_paper_3153.pdf)
 
@@ -16,11 +16,11 @@ permalink: /program/
 
 **16:00 - 16:15** Contributed talk 3: [__Internal Placement: Job Recommender Systems with Social Regularization__](/papers/FEAST2022_paper_4436.pdf)
 
-**16:15 - 16:30** Contributed talk 4: [__Recommender system in a non-stationary context: recommending job ads in pandemic times__](/papers/FEAST2022_paper_3315.pdf)
+**16:15 - 16:30** Contributed talk 4: [__Recommender System in A Non-stationary Context: Recommending Job Ads in Pandemic Times__](/papers/FEAST2022_paper_3315.pdf)
 
 **16:30 - 17:00** Coffee Break
 
-**17:00 - 17:45** Keynote 2: [__Title TBA__]()
+**17:00 - 17:45** Keynote 2: [__Discussing Machine Learning and Economic Views on Job Recommendation__]()
 
 **17:45 - 18:30** Poster session
 
