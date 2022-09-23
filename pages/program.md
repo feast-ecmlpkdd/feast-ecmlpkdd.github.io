@@ -8,7 +8,7 @@ permalink: /program/
 
 **14:30 - 15:15** Keynote by Katrien Verbert: [__Explaining Job Recommendations: A Human-Centred Perspective__](/keynotes/#keynote1) 
 
-**15:15 - 15:30** Overview: [__A Challenge-Based Survey of E-recruitment Recommendation Systems__]()
+**15:15 - 15:30** Overview: [__A Challenge-Based Survey of E-recruitment Recommendation Systems__](https://arxiv.org/abs/2209.05112)
 
 **15:30 - 15:45** Contributed talk 1: [__Algorithmic Tools in Public Employment Services: Towards a Jobseeker-Centric Perspective__](/papers/FEAST2022_paper_3153.pdf)
 
