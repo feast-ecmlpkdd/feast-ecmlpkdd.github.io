@@ -7,9 +7,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            FEAST
+title:            AI4HR&PES
 tagline:          ''
-description:      'International workshop on <a>F</a>air, <a>E</a>ffective <a>A</a>nd <a>S</a>ustainable <a>T</a>alent management using data science'
+description:      'International workshop on AI for Human Resources and Public Employment Services'
 url:              https://feast-ecmlpkdd.github.io/
 baseurl:          ''
 destination:      _site
