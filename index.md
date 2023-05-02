@@ -26,6 +26,7 @@ The AI4HR&PES workshop aims to study how to address the __challenges of the cont
 * Ethical and legal issues in the use of AI for HR management (privacy, fairness, transparency,…)
 * Inclusion of vulnerable groups in the job market
 * Privacy-preserving methods in HR management
+* Harnessing the power of large language models (LLMs) for empowering human resources with AI: transforming HR processes, enhancing employee experience, and fostering ethical practices
 
 Contributions are solicited on methods as well as systems, on theory as well as applications, from academia as well as industry and government agencies. While ethical issues may be a core focus of a contribution, __we strongly encourage possible ethical benefits or concerns to be explicitly considered__ also in contributions where it is not the core focus.
 
